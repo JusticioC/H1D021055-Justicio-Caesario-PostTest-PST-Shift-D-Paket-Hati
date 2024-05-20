@@ -1,0 +1,16 @@
+1. Cara Kerja Servo : 
+Servo menerima sinyal kontrol, menggerakkan motor di dalamnya untuk memutar poros keluaran, dengan menggunakan mekanisme umpan balik untuk memastikan posisi yang akurat.
+
+2. Cara Kerja LED :
+Ketika arus listrik melewati LED, material semikonduktor di dalamnya menghasilkan cahaya dengan frekuensi tertentu, tergantung pada jenis material yang digunakan.
+
+3. 5 Contoh penggunaan pemrograman system tertanam dalam kehidupan sehari hari :
+a. Mesin Cuci Otomatis - Dengan Sistem tertanam bisa mengatur siklus pencucian dan pengeringan
+b. Pengaturan Suhu pada AC - Dengan adanya mikrokontroller ( alat dari PST ) pada AC untuk mengatur suhu sesuai keinginan pengguna
+c. Kunci Pintu Otomatis - Dengan system tertanam, pintu dapat dibuka dan ditutup secara otomatis dengan menggunakan sensor atau kunci digital.
+d. Lampu Pintar - dengan adanya mikrokontroller pada lampu pintar, dapat secara otomatis mengatur kecerahan dan warna cahaya berdasarkan preferensi pengguna.
+e. Sistem irigasi Otomatis - system tertanam mengatur jadwal penyiraman tanaman berdasarkan kelembapan tanah  kondisi cuaca.
+
+4. Jelaskan projek PST yang kamu ambil :
+Saya akan membuat projek terkait pakan kucing otomatis, jadi nantinya pakan kucing itu akan terkoneksi dengan smartphone, sehingga apabila pengguna ingin memberi makan kucingnya bisa pencet tombol untuk membuka pakan tersebut,selain itu pakan kucing tersebut juga bisa disetting supaya terbuka secara otomatis pada jam-jam tertentu. Pakan kucing tersebut bersifat IoT dimana akan dikoneksikan dengan Blynk, sehingga pengguna dapat mengatur dari jarak jauh. 
+Cara kerjanya sendiri, pada blynk kami mengatur jumlah gram yang akan dikeluarkan dengan mengatur durasi pada servo.
